@@ -1,0 +1,11 @@
+===========================================
+ CLIENTE: as
+ DIRECCIÓN DEL CLIENTE: sdf===========================================
+combo corral              24255
+corral
+papas medianas
+gaseosa
+papas grandes              6900
+SUBTOTAL NETO             31155
+IVA (19%)                  5919
+TOTAL A PAGAR             37074
